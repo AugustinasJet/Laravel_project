@@ -1,0 +1,10 @@
+table, tr,th,td{
+  color: blue;
+  border: 1px solid black;
+  text-align: center;
+}
+
+table {
+  width: 500px;
+  margin-left: calc(50% - 250px);
+}
